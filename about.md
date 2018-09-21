@@ -11,7 +11,7 @@ I am a first year computer science master in University of San Francisco and I a
 M.S in Computer Science 												   GPA: 4.0 /4.0
 Related Courses: Data structure and algorithms, Parallel Computing, Object Oriented Programming, Affective Computing 
 
-### Jilin University (JLU), Changchun, China 								    	    Sep. 2012 - Jun. 2017
+#### Jilin University (JLU), Changchun, China 								    	    Sep. 2012 - Jun. 2017
 #### B.S in Veterinary Medicine
 
 
