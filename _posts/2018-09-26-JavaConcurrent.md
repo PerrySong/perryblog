@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Binary Search"
+title: "Java Concurrent"
 date: 2018-09-26 
 description: "Java Concurrent"
 tag: Principle of Software Development
