@@ -11,7 +11,7 @@ System design always talks about more than one servers.
 Diagram always draw the entities.
 
 ## Entities:
-* Load balancer 
+* Load balancer (Scale horizontally)
 * Database (SQL, NO SQL)
 * API
 * Server
@@ -31,3 +31,13 @@ Diagram always draw the entities.
 * Deployment
 * CDNS
 * Disconnect
+
+DDOS 
+
+Key: Trade off (Time | Space) 
+
+Stateless (Scale better than state)
+
+How to create a Fort night
+
+QuadTree: 
