@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Microservices check list"
+date: 2019-01-13 
+description: "Microservices check list"
+tag: Microservices
+---  
 # You need to be this tall to use [micro] services:
 * Basic Monitoring, instrumentation, health checks
 
